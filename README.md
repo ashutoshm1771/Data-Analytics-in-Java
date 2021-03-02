@@ -1,2 +1,2 @@
 # Data-Analytics-in-Python
-Data Analytics using Hadoop, MapReduce, Python functionalities - Basics.
+Data Analytics using Hadoop, MapReduce- Basics.
